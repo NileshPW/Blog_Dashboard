@@ -39,6 +39,11 @@ Mobile: Sidebar hidden for better UX
 
 🧠 Logic Implemented
 
+URL Live Project
+================
+
+https://blog-dashboard-three-psi.vercel.app/
+
 Status-based filtering (Draft / Published)
 
 Client-side pagination
